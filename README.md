@@ -1,4 +1,7 @@
-# latkuis
+NAMA  : Yosua Bangun
+NIM   : 1242200029
+Kelas : SI-E
+Latihan Kuis
 
 A new Flutter project.
 
